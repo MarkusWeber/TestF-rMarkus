@@ -1,0 +1,16 @@
+Git ausführen als Administrator
+
+https://rogerdudler.github.io/git-guide/index.de.html
+
+
+Git Befehle:
+
+git remote -v  zeigt die verbundenen Repositories an
+
+git remote add aliasname git://github.com/MarkusWeber/insect.git   fügt neues Repository unter dem Namen aliasname hinzu
+
+git fetch aliasname  alle Informationen aus dem Repository herunterladen
+
+git remote show aliasname   zeigt allgemeine Information
+
+git remote rename origin insect  umbenennen von aliasname
