@@ -1,4 +1,6 @@
-Git ausführen als Administrator
+08.10.2018 Markus Weber
+
+Git ausfÃ¼hren als Administrator
 
 https://rogerdudler.github.io/git-guide/index.de.html
 
@@ -7,7 +9,7 @@ Git Befehle:
 
 git remote -v  zeigt die verbundenen Repositories an
 
-git remote add aliasname git://github.com/MarkusWeber/insect.git   fügt neues Repository unter dem Namen aliasname hinzu
+git remote add aliasname git://github.com/MarkusWeber/insect.git   fÃ¼gt neues Repository unter dem Namen aliasname hinzu
 
 git fetch aliasname  alle Informationen aus dem Repository herunterladen
 
